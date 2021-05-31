@@ -1,0 +1,66 @@
+[{
+        "index": 0,
+        "title": "What is Trax?",
+        "text": "Trax is a personal daily task tracker. This utility application provides an all-in-one resource for you to track all of your important upcoming dates. Our comprehensive service allows for the full customization of your experience. Personalize your experience by selecting the color theme, the size of each entry, the entry sorting method, and dark versus light modes. "
+    },
+    {
+        "index": 1,
+        "title": "Can I share with social media?",
+        "text": "Yes, we only ask that you tag our respective social media profiles if you wish to use any screenshots from the Trax application. Links to our social media profiles are found at the bottom of the Settings page."
+    },
+    {
+        "index": 2,
+        "title": "How can I report a bug?",
+        "text": "We appreciate all input from our users. Please take a screenshot of the issue and send it to us via the ‘Report App Bug’ card on the Settings page."
+    },
+    {
+        "index": 3,
+        "title": "How does privacy work?",
+        "text": "We take great pride in preserving the complete privacy of our users. All user data is stored under strict security. No user data is shared or can be seen by others."
+    },
+    {
+        "index": 4,
+        "title": "How do I add new entries?",
+        "text": "You can add new entries by pressing the add icon. This icon is located at the bottom-right of the respective screen. Once you press the icon, simply fill out the relevant sections. To save an entry, you MUST input an entry title."
+    },
+    {
+        "index": 5,
+        "title": "Can I edit old entries?",
+        "text": "Yes. To edit an old entry, first find the entry you wish to modify. Click on the entry you wish to edit. Now click on the “Edit” button located at the top-right of the entry summary screen. Select the corresponding section you wish to edit to change your entry’s details. Once you have finished scroll to the bottom of the page and press the save button.\n\nNote: All journal entries will be located on their respective category page."
+    },
+    {
+        "index": 6,
+        "title": "How do I delete old entries?",
+        "text": "To delete an old entry, first find the entry you would like to erase. Press and hold (about 2 seconds) the entry you wish to delete. A pop-up will appear to confirm you want to delete the entry permanently. Confirm you want to delete your entry. \n\n\nNote: All journal entries will be located on their respective category page."
+    },
+    {
+        "index": 7,
+        "title": "I deleted an entry accidentally, can I recover it?",
+        "text": "You cannot recover any deleted entries as they have been permanently erased."
+    },
+    {
+        "index": 8,
+        "title": "How many entires can I have?",
+        "text": "All users can have unlimited entries."
+    },
+    {
+        "index": 9,
+        "title": "What happens to entries after reaching tracking date?",
+        "text": "Trax handles the entries differently depending on whether you are using Trax Free or Trax Premium.\n\nTrax Free: Each entry is permanently erased after reaching the tracking date.\n\nTrax Premium: Once the tracking date is reached, each entry is saved for a further 30 days. After this 30 day period, the entry is permanently erased."
+    },
+    {
+        "index": 10,
+        "title": "How do I change my profile information?",
+        "text": "You can change your username and email on the Profile page. Navigate to the Settings screen and press the profile icon in the upper right corner of the page. To edit your username or email, simply press on the “Edit” button located next to the field you wish to modify. On the pop-up that appears, enter the respective input data for the field you selected and then press the “Save” button."
+    },
+    {
+        "index": 11,
+        "title": "How do I delete my account?",
+        "text": "This feature is coming soon."
+    },
+    {
+        "index": 12,
+        "title": "Is there a premium version of Trax?",
+        "text": "This feature is coming soon."
+    }
+]
